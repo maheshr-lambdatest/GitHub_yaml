@@ -34,4 +34,4 @@ jobs:
         run: sudo apt-get install -y maven
 
       - name: Run Tests
-        run: mvn test -Dtest=TestNGTodo1
+        run: mvn test -D suite=single.xml
