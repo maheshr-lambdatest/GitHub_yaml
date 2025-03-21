@@ -1,6 +1,6 @@
 # Run Selenium Tests With TestNG On LambdaTest
  
-![image](https://user-images.githubusercontent.com/70570645/171934563-4806efd2-1154-494c-a01d-1def95657383.png)
+![image](https://user-images.githubusercontent.com/70570645/171934563-4806efd2-1154-494c-a01d-1def95657383.png) 
 
  
 <p align="center">
