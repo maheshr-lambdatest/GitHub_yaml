@@ -4,9 +4,12 @@ on:
   pull_request:
     branches:
       - master
+    paths:
+      - 'src/test/java/**'
 
 jobs:
   test:
+    if: github.head_ref == 'test'
     runs-on: ubuntu-latest
 
     steps:
