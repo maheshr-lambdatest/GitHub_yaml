@@ -40,7 +40,7 @@ public class TestNGTodo1 {
 System.out.println("Connecting to LambdaTest...");
 System.out.println("URL: " + "https://" + username + ":" + authkey + "@hub.lambdatest.com/wd/hub");
 
-        driver = new RemoteWebDriver(new URL("https://maheshrlambdatest:TJ1qSA1ghgSFzfcA8U5GZA0Gp9zlBIhpEgSOdLq4ATpb8Y080v@hub.lambdatest.com/wd/hub"), caps);
+        driver = new RemoteWebDriver(new URL("http://maheshrlambdatest:TJ1qSA1ghgSFzfcA8U5GZA0Gp9zlBIhpEgSOdLq4ATpb8Y080v@hub.lambdatest.com/wd/hub"), caps);
 
     }
 
