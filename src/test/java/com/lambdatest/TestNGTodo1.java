@@ -19,7 +19,7 @@ public class TestNGTodo1 {
     private String Status = "failed";
 
     @BeforeMethod
-    public void setup(Method m, ITestContext ctx) throws MalformedURLException {
+    public void setup(Method m, ITestContext ctx) throws MalformedURLException { 
         String username = System.getenv("LT_USERNAME") == null ? "maheshrlambdatest" : System.getenv("LT_USERNAME");
         String authkey = System.getenv("LT_ACCESS_KEY") == null ? "TJ1qSA1ghgSFzfcA8U5GZA0Gp9zlBIhpEgSOdLq4ATpb8Y080v" : System.getenv("LT_ACCESS_KEY");
         ;
