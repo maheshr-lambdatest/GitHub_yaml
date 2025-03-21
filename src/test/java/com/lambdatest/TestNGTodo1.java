@@ -37,6 +37,9 @@ public class TestNGTodo1 {
 
         caps.setCapability("tags", Tags);
 
+System.out.println("Connecting to LambdaTest...");
+System.out.println("URL: " + "https://" + username + ":" + authkey + "@hub.lambdatest.com/wd/hub");
+
         driver = new RemoteWebDriver(new URL("https://" + username + ":" + authkey + hub), caps);
 
     }
