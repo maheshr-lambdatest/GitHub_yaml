@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/70570645/171934563-4806efd2-1154-494c-a01d-1def95657383.png)
 
-
+ 
 <p align="center">
   <a href="https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=Java-TestNG-Selenium" target="_bank">Blog</a>
   &nbsp; &#8901; &nbsp;
